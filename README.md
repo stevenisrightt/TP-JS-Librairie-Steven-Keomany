@@ -1,5 +1,5 @@
 # TP-JS-Librairie-Steven-Keomany
-Prénom: Steven
-Nom: Keomany
-Classe: ESGI 3IWJ
+Prénom: Steven \n
+Nom: Keomany \n
+Classe: ESGI 3IWJ \n
 
